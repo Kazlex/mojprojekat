@@ -11,7 +11,7 @@ html {
 body {
   margin: 0;
   background-color: #3f3f3f;
-  background-image: url("C:\Users\Armin\Desktop\react-complete-guide\testapp\images\Bungo.png");
+  /* background-image: url("C:\Users\Armin\Desktop\react-complete-guide\testapp\images\Bungo.png"); */
   padding-left: 20px;
   padding-right: 20px;
 }
