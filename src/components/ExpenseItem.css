@@ -1,14 +1,15 @@
 .expense-item {
   display: flex;
   justify-content: space-between;
-  align-items: center;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  align-items: center;  
   padding: 0.5rem;
   margin: 1rem 0;
-  border-radius: 12px;
   border: 3px solid black;
-  /* background-image: url("C:\Users\Armin\Desktop\react-complete-guide\testapp\images\navbar.jpg"); */
+  background-color: darkslategrey;
+  border-radius:12px;
 }
+
+
 
 .expense-item__description {
   display: flex;
@@ -55,3 +56,4 @@
     padding: 0.5rem 1.5rem;
   }
 }
+
