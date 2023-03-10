@@ -31,7 +31,7 @@ function App() {
 
   return (
     <div id="root">
-      <Expenses items={expenses}/>
+      {/* <Expenses items={expenses}/> */}
       <Card items={expenses}/>
     </div>
   );
